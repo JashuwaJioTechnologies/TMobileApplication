@@ -1,5 +1,5 @@
 ---
- - hosts: Host Machines
+ - hosts: appServers
    gather_facts: no
    become: true
    tasks:
